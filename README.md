@@ -2,7 +2,6 @@
 <h3 align="center">Android Developer, who loves exploring new technologies.</h3>
 <center><img src="https://www.cyberrafting.com/assets/images/gifs/mobile.gif"></center>
 
-<img src="https://www.cyberrafting.com/assets/images/gifs/mobile.gif" align="center">
 <h4 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/beyzacopoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beyzacopoglu" height="30" width="40" /></a>
