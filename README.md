@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Beyza. 😍 </h1>
 <h3 align="center">Android Developer, who loves exploring new technologies.</h3>
-https://www.cyberrafting.com/assets/images/gifs/mobile.gif
+<img src="https://www.cyberrafting.com/assets/images/gifs/mobile.gif" align="center" width="400">
 <img src = "https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" align="center" width="400"> 
 <h4 align="center">Connect with me</h3>
 <p align="center">
