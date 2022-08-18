@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Beyza. 😍 </h1>
+
 <h3 align="center">Android Developer, who loves exploring new technologies.</h3>
+
+
 <center><img src="https://www.cyberrafting.com/assets/images/gifs/mobile.gif"></center>
 
 <h4 align="center">Connect with me</h3>
